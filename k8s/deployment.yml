@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: jquery
-        image: 060920346106.dkr.ecr.us-east-2.amazonaws.com/premwebsite:5
+        image: 060920346106.dkr.ecr.us-east-2.amazonaws.com/premwebsite:number
         ports:
         - containerPort: 80
